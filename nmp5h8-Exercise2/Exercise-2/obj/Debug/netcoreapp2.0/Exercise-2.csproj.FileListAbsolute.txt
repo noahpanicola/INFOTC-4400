@@ -1,0 +1,11 @@
+/Users/noahpanicola/Projects/Exercise-2/Exercise-2/bin/Debug/netcoreapp2.0/Exercise-2.deps.json
+/Users/noahpanicola/Projects/Exercise-2/Exercise-2/bin/Debug/netcoreapp2.0/Exercise-2.runtimeconfig.json
+/Users/noahpanicola/Projects/Exercise-2/Exercise-2/bin/Debug/netcoreapp2.0/Exercise-2.runtimeconfig.dev.json
+/Users/noahpanicola/Projects/Exercise-2/Exercise-2/bin/Debug/netcoreapp2.0/Exercise-2.dll
+/Users/noahpanicola/Projects/Exercise-2/Exercise-2/bin/Debug/netcoreapp2.0/Exercise-2.pdb
+/Users/noahpanicola/Projects/Exercise-2/Exercise-2/obj/Debug/netcoreapp2.0/Exercise-2.csprojResolveAssemblyReference.cache
+/Users/noahpanicola/Projects/Exercise-2/Exercise-2/obj/Debug/netcoreapp2.0/Exercise-2.csproj.CoreCompileInputs.cache
+/Users/noahpanicola/Projects/Exercise-2/Exercise-2/obj/Debug/netcoreapp2.0/Exercise-2.AssemblyInfoInputs.cache
+/Users/noahpanicola/Projects/Exercise-2/Exercise-2/obj/Debug/netcoreapp2.0/Exercise-2.AssemblyInfo.cs
+/Users/noahpanicola/Projects/Exercise-2/Exercise-2/obj/Debug/netcoreapp2.0/Exercise-2.dll
+/Users/noahpanicola/Projects/Exercise-2/Exercise-2/obj/Debug/netcoreapp2.0/Exercise-2.pdb
